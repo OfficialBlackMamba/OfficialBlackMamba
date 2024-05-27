@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/OfficialBlackMamba/README.md/master/wave.gif" width="30px"> Hi, I'm BlackMamba Programing Lover | [![Profile Views](https://github.com/OfficialBlackMamba)]
+# <img src="https://raw.githubusercontent.com/OfficialBlackMamba/README.md/master/wave.gif" width="30px"> Hi, I'm BlackMamba Programing Lover.....
    [![Black Mamba](https://github-stats-alpha.vercel.app/api?username=OfficialBlackMamba "Black Mamba")](https://github-stats-alpha.vercel.app/api?username=OfficialBlackMamba "Black Mamba")
 
 ## 📊 &nbsp;Status
