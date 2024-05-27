@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/OfficialBlackMamba/README.md/master/wave.gif" width="30px"> Hi, I'm BlackMamba Programing Lover.....
+# <img src="https://raw.githubusercontent.com/OfficialBlackMamba/README.md/master/wave.gif" width="30px"> ɦɨ, ɨ'ʍ ɮʟǟƈӄʍǟʍɮǟ քʀօɢʀǟʍɨռɢ ʟօʋɛʀ.....
    [![Black Mamba](https://github-stats-alpha.vercel.app/api?username=OfficialBlackMamba "Black Mamba")](https://github-stats-alpha.vercel.app/api?username=OfficialBlackMamba "Black Mamba")
 
 ## 📊 &nbsp;Status
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/ITZ_ME_BLACKMAMBA"><img src="https://te.legra.ph/file/a6b26f0996cafde6f3f80.png" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Sukhpal is the Owner Of OfficialBlackMamba](https://t.me/ITZ_ME_BLACKMAMBA)**                                                                                |
+|       *[OfficialBlackMamba](https://t.me/ITZ_ME_BLACKMAMBA)*                                                                              |
 | <a href="https://t.me/ITZ_ME_BLACKMAMBA"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> 
 <a href="https://www.instagram.com/sukhpalInsta"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> 
 <a href="https://www.youtube.com/channel/HistoricalMania"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px">          
