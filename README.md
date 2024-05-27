@@ -86,11 +86,6 @@ I created these images, feel free to use them.
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialBlackMamba)
   
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OfficialBlackMamba&repo=KingXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/OfficialBlackMamba/KingXMusic) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OfficialBlackMamba&repo=GorillaRobot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/OfficialBlackMamba/GorillaRobot)
-
 &nbsp;
 ``````
 ---
