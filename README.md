@@ -75,8 +75,8 @@ I created these images, feel free to use them.
 <!-- Talking about groups -->
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/MAMBA_UPDATES"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/MAMBA_UPDATES_CHAT"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_UPDATES"><img src="https://img.shields.io/badge/Join-Our%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_UPDATES_CHAT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
 <a href="https://t.me/ITZ_ME_BLACKMAMBA"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
